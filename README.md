@@ -1,3 +1,7 @@
+This App demonstrates Web3 intergration into React.js Web App, allowing an App front End to connect to the blockchain via your MetaMask wallet!
+Hosted on my AWS EC@ instance S3 bucket  
+http://wallet-web3-dapp.s3-website-us-east-1.amazonaws.com/
+******************************************************************************
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
